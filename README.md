@@ -11,8 +11,8 @@ I don't just write code; I design systems that handle millions of transactions w
 
 * **Core:** JVM (Java/Kotlin) Ecosystem mastery, C/C++ background (Memory Management), Polyglot approach (Go/Python for specific subsystems).
 * **Architecture:** Event-Driven Architecture (EDA), Domain-Driven Design (DDD), Microservices (scaling & decomposition).
-* **Data & Transport:** Apache Kafka (Deep internal knowledge), RabbitMQ, gRPC, Protocol Buffers.
-* **Infrastructure:** Kubernetes (k8s), Terraform, AWS/GCP, Service Mesh (Istio/Linkerd).
+* **Data & Transport:** Apache Kafka, RabbitMQ, gRPC, Protocol Buffers.
+* **Infrastructure:** Kubernetes (k8s), Terraform, AWS/GCP, Service Mesh.
 * **Security:** Zero Trust Implementation, OPA (Open Policy Agent), mTLS at scale.
 
 ---
